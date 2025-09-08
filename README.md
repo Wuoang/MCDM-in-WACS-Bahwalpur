@@ -19,11 +19,13 @@ This repository contains the full pipeline for evaluating Municipal Solid Waste 
 
 ## Repository Structure
 
+- `calc_details.md` → Detailed methodology and formulae used in this framework. 
 - `fuzzy_ahp_run_verbose.py` → Computes criteria weights (pillar, within-pillar, and global) using Fuzzy AHP.  
 - `topsis_run_verbose.py` → Performs TOPSIS analysis with full step-by-step outputs.  
 - `promethee2_run_verbose.py` → Performs PROMETHEE II analysis with detailed outputs.  
-- `calc_details.md` → Detailed methodology and formulae used in this framework.  
-
+- `compare_topsis_promethee.py` → Generates a consolidated comparison table of scenario rankings.  
+- `scenario_performance_matrix - Template.xlsx` → Template for scenario data, criteria info, and weights.
+- `AHP_Template.xlsx` → Template for pairwise comparison for fuzzy AHP using triangular fuzzy numbers (TFN).  
 ---
 
 ## Outputs
